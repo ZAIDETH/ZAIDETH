@@ -8,5 +8,4 @@ Ingeniera Geográfica | Analista SIG 🗺️
 * **Web:** JavaScript, Leaflet, HTML/CSS
 
 ---
-
-![Estadísticas de Zaideth](https://github-readme-stats.vercel.app/api?username=ZAIDETH&show_icons=true&theme=tokyonight)
+![Estadísticas de Zaideth](https://readmestats.999857.xyz/api?username=ZAIDETH&show_icons=true&theme=tokyonight)
