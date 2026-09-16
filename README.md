@@ -7,5 +7,3 @@ Ingeniera Geográfica | Analista SIG 🗺️
 * **Datos y Código:** Python, SQL (PostGIS), GeoPandas
 * **Web:** JavaScript, Leaflet, HTML/CSS
 
----
-![Estadísticas de Zaideth](https://readmestats.999857.xyz/api?username=ZAIDETH&show_icons=true&theme=tokyonight)
